@@ -1,0 +1,21 @@
+.main-footer {
+  color: white;
+  background-color: black;
+  padding-top: 3em;
+  padding-bottom: 2em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-links {
+  color: white;
+}
+
+.img-li {
+  display: inline-block;
+}
+
+.footer-li {
+  padding-top: 1em;
+}
