@@ -8,7 +8,7 @@ const Footer = () => {
     <div className="main-footer">
       <div className="container">
         <div className="row">
-          {/* column1 */}
+
           <div className="col">
             <h4>Social Media</h4>
             <ul className="list-unstyled">
@@ -35,7 +35,6 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* column3 */}
           <div className="col">
             <h4>Other</h4>
             <ul className="list-unstyled">
